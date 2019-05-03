@@ -2,18 +2,18 @@ Tis project is in the public domain .
 
 Additionally, we waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
 
-## CC0 1.0 Universal summary
+# CC0 1.0 Universal summary
 
 This is a human-readable summary of the Legal Code (read the full text).
 
-# No copyright 
+## No copyright 
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all rights to the work worldwide 
 under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-# Other information
+## Other information
 
 In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
 
